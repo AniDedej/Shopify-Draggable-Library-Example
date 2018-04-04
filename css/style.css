@@ -1,0 +1,33 @@
+.drag {
+    display: flex;
+}
+
+.item {
+}
+
+.item:hover {
+  cursor: pointer;
+}
+
+.ansHolder {
+    border: solid 1px;
+    width: 30%;
+    padding-bottom: 30px;
+    margin-left: 2%;
+}
+
+#ansContainer {
+    border: solid 1px;
+    min-height: 350px;
+}
+
+.square {
+    width: 25%;
+    height: 25%;
+    background: #235;
+}
+
+#questHolder {
+    display: flex;
+    align-items: center;
+}
